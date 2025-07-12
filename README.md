@@ -41,3 +41,6 @@ Or open in any browser
 
 ![Project2](https://github.com/user-attachments/assets/7471eceb-0d8b-4949-bd86-333d49d501e4)
 
+## 📧 Author
+
+**By S Kantha Sishanth**
